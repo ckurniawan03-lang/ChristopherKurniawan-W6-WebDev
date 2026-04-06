@@ -1,5 +1,5 @@
 @extends('layouts.app')
-// master
+
 @section('content')
 
 <div class="container py-5">
